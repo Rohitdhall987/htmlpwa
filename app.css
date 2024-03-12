@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;  /* Set a base font */
+  margin: 20px;  /* Add some space around the content */
+}
+
+h1 {
+  color: #333;  /* Darker grey for headings */
+  text-align: center;  /* Center align headings */
+}
+
+h2 {
+  margin-top: 2em;  /* Add space between sections */
+}
+
+ul {
+  list-style: none;  /* Remove default bullet points */
+  padding: 0;  /* Reset padding for cleaner look */
+  margin: 0;
+}
+
+ul li {
+  display: inline-block;  /* Display list items inline */
+  margin-right: 1em;  /* Add space between list items */
+}
+
+ul li a {
+  text-decoration: none;  /* Remove underline from links */
+  color: #007bff;  /* Blue color for links */
+}
+
+ul li a:hover {
+  color: #0056b3;  /* Change link color on hover */
+}
+
+p {
+  line-height: 1.5;  /* Increase line spacing for readability */
+}
+
+img {
+  width: 200px;  /* Set a default image width */
+  display: block;  /* Display image on its own line */
+  margin: 1em auto;  /* Center image horizontally with some margin */
+}
+
+table {
+  border-collapse: collapse;  /* Remove space between table cells */
+  width: 100%;  /* Make table fill the available space */
+}
+
+th, td {
+  padding: 0.5em;  /* Add padding to table cells */
+  border: 1px solid #ddd;  /* Add borders to table cells */
+  text-align: left;  /* Left-align table content */
+}
+
+caption {
+  font-weight: bold;  /* Make table caption bolder */
+  padding-bottom: 0.5em;  /* Add space below caption */
+}
+
+form {
+  margin-top: 2em;  /* Add space above the form */
+}
+
+label {
+  display: block;  /* Display labels on their own lines */
+  margin-bottom: 0.5em;  /* Add space below labels */
+}
+
+textarea {
+  resize: vertical;  /* Allow users to resize the text area vertically */
+}
+
+button {
+  background-color: #007bff;  /* Blue background for button */
+  color: white;  /* White text for button */
+  padding: 0.5em 1em;  /* Add padding to button */
+  border: none;  /* Remove border from button */
+  border-radius: 4px;  /* Add rounded corners to button */
+  cursor: pointer;  /* Change cursor to indicate interactivity */
+}
