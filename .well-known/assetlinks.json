@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "PWA To Do", "package_name": "rohitdhall987.github.io",
+                 "sha256_cert_fingerprints": ["CA:CA:E5:5B:93:A1:BE:05:51:EB:2B:40:53:D1:57:EF:9B:29:F0:0D:F2:D5:1B:F6:C4:31:96:25:93:FA:6F:B5"] }
+  }]
